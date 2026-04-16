@@ -1,7 +1,7 @@
-# Hotel-Management-Report-Analysis-PowerBI-
+# Hotel-Management-Dashbaord-Analysis-PowerBI-
 This is a Hotel Management PowerBI Report which is developed by Arpit Kumar using Microsoft PowerBI . The objective of this project is to analyze the revenue, occupancy, customer behaviour , cancellation in bookings to improve the decision making strategies to led to the hotels to improve there weak area and generate more revenue.
 
-# 🏨 Hotel Management Report: KPI & Business Intelligence Analysis
+# 🏨 Hotel Management Dashbaord: KPI & Business Intelligence Analysis
 📌 Project Overview
 
 This project focuses on analyzing hotel booking data using Business Intelligence techniques to uncover valuable insights and improve decision-making in the hospitality industry. Built using Microsoft Power BI, Excel, and DAX, the report converts raw data into interactive dashboards that provide a 360-degree analytical view of hotel operations.
