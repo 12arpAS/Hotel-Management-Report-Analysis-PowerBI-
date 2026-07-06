@@ -116,3 +116,20 @@ Lovely Professional University
 # ⭐ Conclusion
 
 This project demonstrates a complete end-to-end Business Intelligence workflow, from raw data to actionable insights. It highlights how data visualization and analytics can help businesses identify problems, improve performance, and make smarter decisions.
+
+# Dashbaord
+
+<img width="1172" height="738" alt="image" src="https://github.com/user-attachments/assets/a6519096-2738-4232-973f-f1e40452241b" />
+
+<img width="1138" height="746" alt="image" src="https://github.com/user-attachments/assets/1b4ac7a6-fcd0-4998-ada6-77a5b02802cb" />
+
+<img width="1143" height="751" alt="image" src="https://github.com/user-attachments/assets/c36f2262-0627-4ecf-9008-e9d6e90f32b8" />
+
+<img width="1141" height="747" alt="image" src="https://github.com/user-attachments/assets/c129d1f8-946c-4cac-8685-ef6c33ce229e" />
+
+<img width="1142" height="743" alt="image" src="https://github.com/user-attachments/assets/949b176a-03e7-4fa1-a699-e1b2f14be31e" />
+
+
+
+
+
